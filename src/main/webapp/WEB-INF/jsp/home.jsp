@@ -255,7 +255,7 @@
                     <ul class="list-unstyled info-list">
                         <li><i class="fa-solid fa-check-circle"></i> Must be between 18 and 65 years of age.</li>
                         <li><i class="fa-solid fa-check-circle"></i> Must weigh at least 50 kg (110 lbs) for general donation.</li>
-                        <li><i class="fa-solid fa-check-circle"></i> Minimum interval of 3 months between whole blood donations.</li>
+                        <li><i class="fa-solid fa-check-circle"></i> Minimum interval of 3 months between every blood donations.</li>
                         <li><i class="fa-solid fa-check-circle"></i> Must not suffer from chronic diseases like Cardiac arrest, Hypertension, or blood disorders.</li>
                         <li><i class="fa-solid fa-check-circle"></i> Ensure you have eaten a healthy meal and are well-hydrated before donating.</li>
                     </ul>

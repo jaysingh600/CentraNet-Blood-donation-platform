@@ -163,7 +163,7 @@
                 
                 <c:if test="${param.logout != null}">
                     <div class="alert alert-info d-flex align-items-center">
-                        <i class="fa-solid fa-circle-info me-2"></i> You have been logged out.
+                        <i class="fa-solid fa-circle-info me-2"></i> You have been  logged out.
                     </div>
                 </c:if>
 
