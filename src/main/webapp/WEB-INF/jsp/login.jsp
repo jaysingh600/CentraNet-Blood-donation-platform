@@ -129,7 +129,7 @@
             transition: color 0.3s;
         }
         .footer-links a:hover {
-            color: #b31217;
+            color: #b35012;
             text-decoration: underline;
         }
         .alert {
@@ -144,7 +144,7 @@
         <div class="login-card">
             <div class="login-header">
                 <i class="fa-solid fa-droplet"></i>
-                <h4>Blood Donation System</h4>
+                <h4>Blood Donation Platform</h4>
                 <p>Sign in to your account</p>
             </div>
             
