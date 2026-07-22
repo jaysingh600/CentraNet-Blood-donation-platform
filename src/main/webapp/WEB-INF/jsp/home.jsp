@@ -190,7 +190,7 @@
     <nav class="navbar navbar-expand-lg fixed-top py-3">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <i class="fa-solid fa-hand-holding-medical" style="color: var(--primary-mid);"></i> CentralNet
+                <i class="fa-solid fa-hand-holding-medical" style="color: var(--primary-mid);"></i> CentralNetBloodBank
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -295,7 +295,7 @@
     <footer class="text-center">
         <div class="container">
             <h4 class="fw-bold text-white mb-3"><i class="fa-solid fa-hand-holding-medical" style="color: var(--primary-light);"></i> CentralNet</h4>
-            <p class="mb-0">Powered by the National Blood Transfusion Network System © 2026</p>
+            <p class="mb-0">Powered by the National Blood Transfusion Network System © 2026 || Created By Jay Prakash</p>
             <p class="small mt-2" style="opacity: 0.5;">Confidential & Secure Platform</p>
         </div>
     </footer>
