@@ -1,7 +1,7 @@
 # Blood Donation Management System cental
 
 ## Overview
-The Blood Donation Management System is a comprehensive web application built with **Spring Boot** and **Java 21**. It serves as a centralized platform to connect blood donors, blood requesters, hospitals, and administrators. The system facilitates the efficient management of blood donations, blood requests, inventory tracking, and user notifications this is centralized.
+The Blood Donation Management System is a comprehensive web application built with **Spring Boot** and **Java 21**. It serves as a centralized platform to connect blood donors, blood requesters, hospitals, and administrators. The system facilitates the efficient management of blood donations, blood requests, inventory tracking, and user notifications this is centralized system.
 
 ## Tech Stack
 - **Backend:** Java 21, Spring Boot 3.2.4
