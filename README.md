@@ -15,7 +15,7 @@ The Blood Donation Management System is a comprehensive web application built wi
 - **Frontend:** JSP (JavaServer Pages), JSTL, Bootstrap 5, FontAwesome
 - **Build Tool:** Maven
 
-## User Roles & Features
+## User Roles & Feature
 
 ### 1. Admin
 - Dashboard with overall system statistics.
