@@ -30,7 +30,7 @@ The Blood Donation Management System is a comprehensive web application built wi
 - View donation history and status (Pending, Approved, Completed).
 - Receive email notifications for donation schedules.
 
-### 3. Requester
+### 3. Blood Requester
 - Register and maintain a profile.
 - Submit blood requests (specifying Blood Group, Units required, and Urgency).
 - Track the status of blood requests.
