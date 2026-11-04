@@ -24,7 +24,7 @@ The Blood Donation Management System is a comprehensive web application built wi
 - Oversee all donation and blood requests.
 - View audit logs and system notifications.
 
-### 2. Donor
+### 2. Blood Donor 
 - Register and maintain a personal profile (Blood Group, Age, Weight, Contact Info).
 - Submit blood donation requests.
 - View donation history and status (Pending, Approved, Completed).
