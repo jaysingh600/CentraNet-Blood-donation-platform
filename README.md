@@ -17,7 +17,7 @@ The Blood Donation Management System is a comprehensive web application built wi
 
 ## User Roles & Feature
 
-### 1. Admin
+### 1. Admin module
 - Dashboard with overall system statistics.
 - Manage users (Donors, Requesters, Hospitals).
 - Approve or reject hospital registrations.
